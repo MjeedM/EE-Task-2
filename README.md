@@ -1,4 +1,3 @@
-# EE-Task-2
 # Latch Circuit 
 ## explanation
 When you power the circuit, all transistors are OFF. The Q1 MOSFET is the one that enables the output, so the current path from IN to OUT.
